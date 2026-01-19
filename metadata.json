@@ -1,0 +1,5 @@
+{
+  "name": "TokGen - AI Enhanced Video Feed",
+  "description": "A sleek, TikTok-style vertical video feed app featuring auto-playing shorts, interactive UI elements, and AI-generated captions powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
